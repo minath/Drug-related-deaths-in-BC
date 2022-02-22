@@ -1,0 +1,101 @@
+county,year,drug,death
+Baltimore City,2011,Opioid,142
+Baltimore City,2012,Opioid,189
+Baltimore City,2013,Opioid,212
+Baltimore City,2014,Opioid,275
+Baltimore City,2015,Opioid,354
+Baltimore City,2016,Opioid,628
+Baltimore City,2017,Opioid,692
+Baltimore City,2018,Opioid,814
+Baltimore City,2019,Opioid,851
+Baltimore City,2020,Opioid,964
+Baltimore City,2011,Heroin,76
+Baltimore City,2012,Heroin,131
+Baltimore City,2013,Heroin,150
+Baltimore City,2014,Heroin,192
+Baltimore City,2015,Heroin,260
+Baltimore City,2016,Heroin,454
+Baltimore City,2017,Heroin,380
+Baltimore City,2018,Heroin,286
+Baltimore City,2019,Heroin,279
+Baltimore City,2020,Heroin,205
+Baltimore City,2011,Prescription Opioid,82
+Baltimore City,2012,Prescription Opioid,74
+Baltimore City,2013,Prescription Opioid,86
+Baltimore City,2014,Prescription Opioid,84
+Baltimore City,2015,Prescription Opioid,105
+Baltimore City,2016,Prescription Opioid,113
+Baltimore City,2017,Prescription Opioid,123
+Baltimore City,2018,Prescription Opioid,128
+Baltimore City,2019,Prescription Opioid,134
+Baltimore City,2020,Prescription Opioid,168
+Baltimore City,2011,Osycodone,15
+Baltimore City,2012,Osycodone,15
+Baltimore City,2013,Osycodone,11
+Baltimore City,2014,Osycodone,20
+Baltimore City,2015,Osycodone,18
+Baltimore City,2016,Osycodone,22
+Baltimore City,2017,Osycodone,23
+Baltimore City,2018,Osycodone,21
+Baltimore City,2019,Osycodone,22
+Baltimore City,2020,Osycodone,21
+Baltimore City,2011,Methadone,65
+Baltimore City,2012,Methadone,54
+Baltimore City,2013,Methadone,57
+Baltimore City,2014,Methadone,54
+Baltimore City,2015,Methadone,78
+Baltimore City,2016,Methadone,82
+Baltimore City,2017,Methadone,87
+Baltimore City,2018,Methadone,85
+Baltimore City,2019,Methadone,98
+Baltimore City,2020,Methadone,131
+Baltimore City,2011,Fentanyl,2
+Baltimore City,2012,Fentanyl,4
+Baltimore City,2013,Fentanyl,12
+Baltimore City,2014,Fentanyl,72
+Baltimore City,2015,Fentanyl,120
+Baltimore City,2016,Fentanyl,419
+Baltimore City,2017,Fentanyl,573
+Baltimore City,2018,Fentanyl,758
+Baltimore City,2019,Fentanyl,810
+Baltimore City,2020,Fentanyl,920
+Baltimore City,2011,Cocaine,48
+Baltimore City,2012,Cocaine,59
+Baltimore City,2013,Cocaine,47
+Baltimore City,2014,Cocaine,82
+Baltimore City,2015,Cocaine,93
+Baltimore City,2016,Cocaine,202
+Baltimore City,2017,Cocaine,285
+Baltimore City,2018,Cocaine,388
+Baltimore City,2019,Cocaine,380
+Baltimore City,2020,Cocaine,393
+Baltimore City,2011,Benzodiazepine,9
+Baltimore City,2012,Benzodiazepine,15
+Baltimore City,2013,Benzodiazepine,14
+Baltimore City,2014,Benzodiazepine,22
+Baltimore City,2015,Benzodiazepine,15
+Baltimore City,2016,Benzodiazepine,24
+Baltimore City,2017,Benzodiazepine,28
+Baltimore City,2018,Benzodiazepine,28
+Baltimore City,2019,Benzodiazepine,27
+Baltimore City,2020,Benzodiazepine,26
+Baltimore City,2011,Phencylidine,1
+Baltimore City,2012,Phencylidine,2
+Baltimore City,2013,Phencylidine,1
+Baltimore City,2014,Phencylidine,1
+Baltimore City,2015,Phencylidine,1
+Baltimore City,2016,Phencylidine,2
+Baltimore City,2017,Phencylidine,2
+Baltimore City,2018,Phencylidine,3
+Baltimore City,2019,Phencylidine,8
+Baltimore City,2020,Phencylidine,5
+Baltimore City,2011,Methamphetamine,0
+Baltimore City,2012,Methamphetamine,1
+Baltimore City,2013,Methamphetamine,2
+Baltimore City,2014,Methamphetamine,1
+Baltimore City,2015,Methamphetamine,1
+Baltimore City,2016,Methamphetamine,8
+Baltimore City,2017,Methamphetamine,5
+Baltimore City,2018,Methamphetamine,5
+Baltimore City,2019,Methamphetamine,7
+Baltimore City,2020,Methamphetamine,13
